@@ -1,0 +1,3 @@
+Callback: gọi lại
+    + Là hàm (function) được truyền qua đối số
+    + Khi gọi hàm khác (trong hàm phải nhận đối số)

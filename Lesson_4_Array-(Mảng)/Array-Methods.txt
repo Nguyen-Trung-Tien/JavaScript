@@ -1,0 +1,29 @@
+1.Cách tạo mảng: Lưu trữ nhiều giá trị dữ liệu  
+    var array1 = [1, 2, 3, 4, 5]; //cách 1
+    var array2 = new Array(1, 2, 3, 4, 5); //cách 2
+=> Có thể đưa tất cả các dạnh dữ liệu vào mảng (Array)
+
+2.Array
+    -toString: gán giá trị mặc định chuối string
+    -Join: thay đổi dấu ngăn cách giữa các thành phần  
+    -Pop: xóa phần tử cuối mảng và trả về phần tử đã xóa (nếu không còn phần tử nào thì trả về undefinds)
+    -Push: thêm phần tử và cuối mảng và trả về độ dài mớ của mảng
+    -Shift: xóa một phần tử đầu mảng và trả về giá trị phần tử đã xóa
+    -Unshift: thêm 1 hay nhiều phần tử vào đầu mảng va trả về độ dài của chuỗi mới
+    -Splicing: có thể xóa, cắt, chèn phần tử vào mảng <tê
+            => <tên hàm>.splice(<trỏ vào index đầu tiên>, <Số lượng muốn xóa>, <chèn element vào, vv.. >);
+    -Concat: nối hay hợp nhất 2 mảng 
+            => <mảng gốc>.concat(<mảng cần hợp nhất>)
+    -Slicing: cắt 1 hay nhiều element
+        => <mảng gốc>.slice(<vị trí index bắt đầu>,< vị trí index kết thúc>)
+
+
+3.Method Array
+    + forEach(): duyệt từng phần tử
+    + every(): kiểm tra tất cả các phần tử trong 1 mảng, phải thỏa mãn một điều kiện
+    + some():kiểm tra một phần tử trong 1 mảng, phải thỏa mãn một điều kiện
+    + find():chỉ tìm kiếm một phần tử trong mảng và trả về phần tử đã tìm thấy
+    + filter():  tìm kiếm tất cả phần tử trong mảng và trả về tất cả phần tử đã tìm thấy
+    + map(): chỉnh sửa hoặc thay đổi 1 element trong mảng
+    + reduce(): muốn nhận về một giá trị nhất đã tính toán của một array
+    + includes(): Tìm phần tử có tồn tại trong chuỗi hay một array 

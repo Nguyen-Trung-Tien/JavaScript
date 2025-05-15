@@ -1,0 +1,9 @@
+Math-Object ( đối tượng Math): đối tượng được định nghĩa trong JS, không thể khởi tạo qua từ khóa "new"
+    + Math.PI: trả về số PI = 3,14
+    + Math.round(): làm tròn số
+    + Math.abs(): giá trị tuyệt đối (vd: |-3| = 3)
+    + Math.ceil(): làm tròn trên (vd: 3.0001 = 4)
+    + Math.floor(): làm tròn dưới (vd: 3.99 = 3)
+    + Math.random()
+    + Math.min()
+    + Math.max()

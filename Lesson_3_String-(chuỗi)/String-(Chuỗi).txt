@@ -1,0 +1,21 @@
+1.Có 2 cách tạo String 
+
+    Cách 1: "tạo chuỗi string"
+    var name = "Hello world";
+
+     2:  "Tạo một đố tượng chuỗi string"
+    var name =  new string ("Hello");
+
+
+2.Một số case sử dụng backslash (\): Dùng để thêm dấu vào chuỗi
+
+
+3.Template string ES6: nối chuỗi
+    
+    var lastName = "Tien" ;
+    var firstName = "Nguyen";
+
+    console.log('Tôi là: ${firstName} ${lastName}');     
+
+
+

@@ -1,0 +1,6 @@
+1.object: đối tượng
+2.object constructor: thiết kế và xây dựng đối tượng
+3.object prototype: nguyên mẫu của đối tượng (những thành phần cấu tạo của một đối tượng)
+4.Date: Đối tượng thời gian
+5.if-else: dùng so sánh tính đúng sai
+6.switch-case: dùng khi biết trước giá trị (nếu case > 3 thì sử dụng if-else)

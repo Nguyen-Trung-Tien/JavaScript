@@ -1,0 +1,14 @@
+1. Kiểu dữ liệu nguyên thủy - primitive Data
+    
+    -Number: số
+    -String: chuỗi
+    -Boolean: đúng/sai
+    -Undefined: "một được hạm khởi tạo nhưng không gán giá trị cho nó "
+    -Null: không có gì
+    -Symbol: chỉ đặc tính duy nhất
+
+2. Kiểu dữ liệu phức tạp (không nguyên thủy) - Comlex Data
+
+    -Function: Hàm (thuộc tính)
+    -Object: Dùng để lưu dữ liệu 
+    -Array: mảng

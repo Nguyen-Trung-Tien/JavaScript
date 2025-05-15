@@ -1,0 +1,9 @@
+1. Tham số?
+    + Định nghĩa: giá trị truyền vào một Function
+    + không giới hạn kiểu dữ liệu
+    + Có tính private 
+    + Truyền 1 hay nhiều tham số 
+
+2. Arguments?
+    + Đối tượng Arguments
+    + for of 

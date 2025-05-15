@@ -1,0 +1,6 @@
+1. alert: hiển thị hộp thoại thông báo trên trình duyệt
+2. consoler: in ra màn hình consoler 
+3. confirm: hiển thị thông báo xác nhận 
+4. prompt: hiển thị thông báo nhập giá trị
+5. setTimeout: cho một đoạn code chạy sau một khoảng thời gian
+6. setInterval: cho một đoạn code chạy liên tục sau một khoảng thời gian

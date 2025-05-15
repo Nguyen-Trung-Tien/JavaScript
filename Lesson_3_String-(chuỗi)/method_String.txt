@@ -1,0 +1,14 @@
+1.Length: kiểm tra độ dài kí tự
+2.Find index: tìm vị trí của kí tự trong chuỗi ( nếu ko tìm thể được kí tự thì trả với -1)
+    + indexOf: tìm lấy giá trị đầu tiên
+    + lastIndexOf: tìm giá trị cuối cùng
+    + search: tìm kiếm kí tự theo biểu thức chính qui
+3.Cut string: Cắt lấy chuỗi kí tự
+4.Replace: thay thế chuỗi
+5.Convert to upper case: chuyển đổi tất cả kí tự sang chữ hoa
+6.Convert to lower case: chuyển đổi tất cả kí tự sang chữ thường
+7.Trim: loại bỏ khoảng trắng thừa
+8.Split: cắt chuỗi thành array
+9.Get a character by index: lấy kí tự bởi 1 index cho trước
+10.toString: ép kiểu sang string
+11.toFixed: làm tròn số thập phân

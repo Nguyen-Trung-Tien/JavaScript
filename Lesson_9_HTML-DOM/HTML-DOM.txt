@@ -1,0 +1,9 @@
+HTML DOM (Document Object Model): Mô hình tài liệu hướng đối tượng, khi mà trinh duyệt 
+chạy sẽ tải và tạo ra HTML DOM
+    - theo quy chuẩn W3C
+    - DOM khi chạy sẽ tạo ra mô hình cây
+    - Trong mô hình mỗi mỗi điểm giao nhau gọi là node
+    - HTML DOME, có 3 thành phần chính
+        + Element:là những thẻ html (tag: h1->h6, span, p,...)
+        + Attribute: là những thuộc tính trong thẻ tag (href, class, id, title, ...)
+        + Text: là những đoạn text (chữ)    

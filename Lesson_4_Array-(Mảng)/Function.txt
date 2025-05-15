@@ -8,7 +8,7 @@
     + Arrow Function:
 
 3. Loại Function (hàm)
-    + Buil-in
+    + Build-in
     + Tự định nghĩa
 
 4. Tính chất

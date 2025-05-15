@@ -1,7 +1,7 @@
 1.Cách tạo mảng: Lưu trữ nhiều giá trị dữ liệu  
     var array1 = [1, 2, 3, 4, 5]; //cách 1
     var array2 = new Array(1, 2, 3, 4, 5); //cách 2
-=> Có thể đưa tất cả các dạnh dữ liệu vào mảng (Array)
+=> Có thể đưa tất cả các dạng dữ liệu vào mảng (Array)
 
 2.Array
     -toString: gán giá trị mặc định chuối string
@@ -9,7 +9,7 @@
     -Pop: xóa phần tử cuối mảng và trả về phần tử đã xóa (nếu không còn phần tử nào thì trả về undefinds)
     -Push: thêm phần tử và cuối mảng và trả về độ dài mớ của mảng
     -Shift: xóa một phần tử đầu mảng và trả về giá trị phần tử đã xóa
-    -Unshift: thêm 1 hay nhiều phần tử vào đầu mảng va trả về độ dài của chuỗi mới
+    -UnShift: thêm 1 hay nhiều phần tử vào đầu mảng va trả về độ dài của chuỗi mới
     -Splicing: có thể xóa, cắt, chèn phần tử vào mảng <tê
             => <tên hàm>.splice(<trỏ vào index đầu tiên>, <Số lượng muốn xóa>, <chèn element vào, vv.. >);
     -Concat: nối hay hợp nhất 2 mảng 
